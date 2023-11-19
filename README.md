@@ -1,6 +1,9 @@
 # 3005A4Q1
 DBMS Assignment 4
 
+### YOUTUBE VIDEO
+link to youtube video: https://youtu.be/EsVFxZa6GWQ
+
 ## Database Setup
 Create a new database.
 
